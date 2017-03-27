@@ -1,0 +1,32 @@
+{
+  "name": "Phone-book",
+  "version": "1.0.0",
+  "description": "Phone book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arvi-aris"
+  },
+  "keywords": [
+    "HTML",
+    "Javascript",
+    "NodeJS",
+    "Express",
+    "Mongo",
+    "JSON"
+  ],
+  "author": "Aravindh Nagarajan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "dustjs-linkedin": "^2.7.5",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.25",
+    "nodemon": "^1.11.0",
+    "textmagic-rest-client": "0.0.5",
+    "twilio": "^2.11.1"
+  }
+}
